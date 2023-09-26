@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1656695484 source:c:\utn programación\laboratorio 1\tpfinal\gran cerdo\main.cpp
+	<time.h>
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+	<cmath>
+	"rlutil.h"
+	"funciones.h"
+
+1656696249 source:c:\utn programación\laboratorio 1\tpfinal\gran cerdo\funciones.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+	<cmath>
+	"rlutil.h"
+
+1656687567 c:\utn programación\laboratorio 1\tpfinal\gran cerdo\funciones.h
+
+1656681132 c:\utn programación\laboratorio 1\tpfinal\gran cerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656695484 source:c:\users\navim\desktop\gran cerdo\main.cpp
+	<time.h>
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+	<cmath>
+	"rlutil.h"
+	"funciones.h"
+
+1656681132 c:\users\navim\desktop\gran cerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656687567 c:\users\navim\desktop\gran cerdo\funciones.h
+
+1656699246 source:c:\users\navim\desktop\gran cerdo\funciones.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+	<cmath>
+	"rlutil.h"
+
+1656712982 source:c:\users\navim\desktop\gran cerdo ivan carrieri\funciones.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+	<cmath>
+	"rlutil.h"
+
+1656681132 c:\users\navim\desktop\gran cerdo ivan carrieri\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656712389 source:c:\users\navim\desktop\gran cerdo ivan carrieri\main.cpp
+	<time.h>
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+	<cmath>
+	"rlutil.h"
+	"funciones.h"
+
+1656718210 c:\users\navim\desktop\gran cerdo ivan carrieri\funciones.h
+
+1656712389 source:c:\utn programación\laboratorio 1\tpfinal\gran cerdo ivan carrieri\main.cpp
+	<time.h>
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+	<cmath>
+	"rlutil.h"
+	"funciones.h"
+
+1656681132 c:\utn programación\laboratorio 1\tpfinal\gran cerdo ivan carrieri\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656718210 c:\utn programación\laboratorio 1\tpfinal\gran cerdo ivan carrieri\funciones.h
+
+1656719830 source:c:\utn programación\laboratorio 1\tpfinal\gran cerdo ivan carrieri\funciones.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+	<cmath>
+	"rlutil.h"
+
+1656719830 source:c:\utn programación\materias finalizadas\laboratorio 1\tpfinal\gran cerdo ivan carrieri\funciones.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+	<cmath>
+	"rlutil.h"
+
+1656681132 c:\utn programación\materias finalizadas\laboratorio 1\tpfinal\gran cerdo ivan carrieri\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656712389 source:c:\utn programación\materias finalizadas\laboratorio 1\tpfinal\gran cerdo ivan carrieri\main.cpp
+	<time.h>
+	<iostream>
+	<locale.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+	<cmath>
+	"rlutil.h"
+	"funciones.h"
+
+1656718210 c:\utn programación\materias finalizadas\laboratorio 1\tpfinal\gran cerdo ivan carrieri\funciones.h
+
